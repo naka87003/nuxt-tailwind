@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @import "@nuxt/ui";
+
+@theme {
+  --color-cyan-700: red;
+  --color-special: green;
+}

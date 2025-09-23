@@ -1,3 +1,3 @@
 <template>
-  <div class="font-black text-center text-3xl">Nuxt Tailwind</div>
+  <div class="bg-special/30 hover:bg-cyan-700">Nuxt Tailwind</div>
 </template>
